@@ -1,0 +1,33 @@
+=== OpenVINO Gaze Estimation Project Model List ===
+Precision Used: FP16
+
+- Model Name: face-detection-adas-0001
+  - Precision: FP16
+  - Path: C:\Users\jwkim\Desktop\hello\proj1\models\intel\face-detection-adas-0001\FP16\face-detection-adas-0001.xml
+  - Description: Face Detection (MobileNet + SSD)
+
+- Model Name: facial-landmarks-35-adas-0002
+  - Precision: FP16
+  - Path: C:\Users\jwkim\Desktop\hello\proj1\models\intel\facial-landmarks-35-adas-0002\FP16\facial-landmarks-35-adas-0002.xml
+  - Description: Facial Landmarks (Regression CNN, 35 points)
+
+- Model Name: head-pose-estimation-adas-0001
+  - Precision: FP16
+  - Path: C:\Users\jwkim\Desktop\hello\proj1\models\intel\head-pose-estimation-adas-0001\FP16\head-pose-estimation-adas-0001.xml
+  - Description: Head Pose Estimation (Yaw, Pitch, Roll)
+
+- Model Name: gaze-estimation-adas-0002
+  - Precision: FP16
+  - Path: C:\Users\jwkim\Desktop\hello\proj1\models\intel\gaze-estimation-adas-0002\FP16\gaze-estimation-adas-0002.xml
+  - Description: Gaze Estimation (Multi-stream CNN)
+
+- Model Name: age-gender-recognition-retail-0013
+  - Precision: FP16
+  - Path: C:\Users\jwkim\Desktop\hello\proj1\models\intel\age-gender-recognition-retail-0013\FP16\age-gender-recognition-retail-0013.xml
+  - Description: Age & Gender Recognition (Multi-task CNN)
+
+- Model Name: emotions-recognition-retail-0003
+  - Precision: FP16
+  - Path: C:\Users\jwkim\Desktop\hello\proj1\models\intel\emotions-recognition-retail-0003\FP16\emotions-recognition-retail-0003.xml
+  - Description: Emotion Recognition (Classification)
+
